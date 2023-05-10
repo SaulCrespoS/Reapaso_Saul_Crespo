@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author saulc
+ *
+ */
+module hotel {
+
+}
